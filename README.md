@@ -1,76 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:ff2f9f,45:b26dff,100:4ce9ff&text=Alejandro%20Lopez%20Aragon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CEO%20at%20Marques%20Edition%20Labs%20%C2%B7%20AI%20DJ%20Tools&descAlignY=63" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0b1220,40:1a1f3a,70:b26dff,100:4ce9ff&text=ALEJANDRO%20LOPEZ%20ARAGON&fontColor=ffffff&fontSize=34&animation=fadeIn&desc=CEO%20%C2%B7%20MARQUES%20EDITION%20LABS&descAlignY=70" alt="header" />
 
-[![CEO](https://img.shields.io/badge/CEO-Marques%20Edition%20Labs-ff2f9f?style=for-the-badge)](https://github.com/marqueseditionlabs)
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-Executive%20Ownership-b26dff?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-macOS-74b4ff?style=for-the-badge)
-![AI Focus](https://img.shields.io/badge/AI%20Focus-OpenAI%20Workflows-4ce9ff?style=for-the-badge)
+[![Office](https://img.shields.io/badge/Office-Chief%20Executive%20Officer-ff2f9f?style=for-the-badge)](https://github.com/marqueseditionlabs)
+![Company](https://img.shields.io/badge/Company-Marques%20Edition%20Labs-4ce9ff?style=for-the-badge)
+![Sector](https://img.shields.io/badge/Sector-AI%20Music%20Technology-74b4ff?style=for-the-badge)
 
 </div>
+
+## Corporate Statement
+
+Marques Edition Labs develops AI-powered software products for professional music operations.
+As CEO, I lead corporate strategy, product governance, and technical execution with a clear focus on reliability, scalability, and long-term value creation.
+
+## Executive Office
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-## Executive Role
+### Strategic Leadership
 
-I lead **strategy, product direction, and execution** at Marques Edition Labs.
-My work combines business leadership with hands-on technical oversight to deliver practical AI software for music operations.
+- Corporate vision and growth priorities
+- Product portfolio direction and roadmap governance
+- Operational risk management and delivery standards
+- Strategic alignment between business and engineering
 
 </td>
 <td valign="top" width="50%">
 
-## Current Mission
+### Executive Responsibilities
 
-Build production-ready tools that improve DJ workflows through:
-- AI-assisted decision support
-- macOS-native automation
-- reliable release and delivery systems
+- Define market-facing product strategy
+- Oversee architecture and quality governance
+- Establish release and operational discipline
+- Ensure measurable execution against objectives
 
 </td>
 </tr>
 </table>
 
+## Operating Pillars
+
+1. **Product Excellence**: practical software for high-performance music workflows.
+2. **Technical Discipline**: architecture ownership, quality gates, and resilient systems.
+3. **AI Integration**: operational AI capabilities with production controls.
+4. **Execution Reliability**: CI/CD rigor and release consistency.
+
 ## Technology Leadership
 
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
-![AppleScript](https://img.shields.io/badge/AppleScript-8A8A8A?style=flat-square&logo=apple&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-## Strategic Scope
-
-| Area | Ownership |
+| Domain | Capability |
 |---|---|
-| Product | Vision, roadmap, prioritization, delivery alignment |
-| Architecture | Domain boundaries, resilience patterns, maintainability |
-| AI Integration | Prompt workflow design, API integration strategy, quality controls |
-| Operations | CI/CD governance, release discipline, production readiness |
+| Languages | Swift, AppleScript, Shell |
+| Platforms | macOS, SwiftUI, Apple Music automation |
+| AI Layer | OpenAI API integration and workflow orchestration |
+| Delivery | GitHub Actions, CI/CD governance, release management |
 
-## Flagship Platform
+## Flagship Program
 
 ### [MARQUESEDITION_TOOLS](https://github.com/marqueseditionlabs/MARQUESEDITION_TOOLS)
 
 ![FolderToTunes](https://img.shields.io/badge/FolderToTunes-Stable-00c853?style=flat-square)
 ![AISessionGenerator](https://img.shields.io/badge/AISessionGenerator-Beta-ffab00?style=flat-square)
 
-- **FolderToTunes**: converts folder hierarchies into Apple Music folders and playlists
-- **AISessionGenerator**: AI-assisted playlist/session generation for advanced prep workflows
+An enterprise-grade macOS suite for DJ and music-library operations:
+- **FolderToTunes**: transforms folder hierarchies into Apple Music folders and playlists.
+- **AISessionGenerator**: AI-assisted playlist/session workflow for advanced preparation.
 
-## Execution Standards
+## Governance Standards
 
-- Clear domain ownership and modular architecture
-- Predictable state-driven behavior
-- Resilient workflows for long-running tasks
-- Product decisions tied to measurable operational value
+- Domain-driven ownership and clear accountability
+- Predictable state-driven process control
+- Recoverability and resilience in long-running operations
+- Business-impact-oriented technical decision making
 
-## Professional Links
+## Corporate Links
 
-- Personal GitHub: [@marquesedition](https://github.com/marquesedition)
-- Organization: [@marqueseditionlabs](https://github.com/marqueseditionlabs)
+- CEO Profile: [@marquesedition](https://github.com/marquesedition)
+- Company: [@marqueseditionlabs](https://github.com/marqueseditionlabs)
 - LinkedIn: [alejandrolopezaragon](https://www.linkedin.com/in/alejandrolopezaragon/)
 
 <div align="center">
