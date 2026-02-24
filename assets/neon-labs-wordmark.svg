@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Marques Edition Labs AI DJ Tools">
+  <defs>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2f9f"/>
+      <stop offset="50%" stop-color="#b26dff"/>
+      <stop offset="100%" stop-color="#4ce9ff"/>
+    </linearGradient>
+    <linearGradient id="labsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#74b4ff"/>
+      <stop offset="100%" stop-color="#4ce9ff"/>
+    </linearGradient>
+    <filter id="neon" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .main { font: 700 160px "Brush Script MT", "Segoe Script", cursive; fill: url(#titleGrad); }
+      .labs { font: 700 140px "Segoe UI", "Arial", sans-serif; fill: url(#labsGrad); letter-spacing: 1px; }
+      .sub { font: 700 62px "Segoe UI", "Arial", sans-serif; fill: #47e6ff; letter-spacing: 10px; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="#030611"/>
+
+  <g opacity="0.35">
+    <circle cx="180" cy="180" r="3" fill="#ff61cb"/>
+    <circle cx="260" cy="240" r="2" fill="#56e8ff"/>
+    <circle cx="1420" cy="170" r="3" fill="#56e8ff"/>
+    <circle cx="1350" cy="250" r="2" fill="#ff61cb"/>
+    <circle cx="220" cy="760" r="2" fill="#56e8ff"/>
+    <circle cx="1380" cy="740" r="3" fill="#56e8ff"/>
+  </g>
+
+  <g filter="url(#neon)" text-anchor="middle">
+    <text x="800" y="410" class="main">marques edition</text>
+    <text x="800" y="560" class="labs">labs</text>
+    <text x="800" y="670" class="sub">AI DJ TOOLS</text>
+  </g>
+</svg>

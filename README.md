@@ -1,78 +1,92 @@
 <div align="center">
+  <img src="./assets/neon-labs-wordmark.svg" alt="marquesedition labs" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Alejandro%20Lopez%20Aragon&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=CEO%20at%20Marques%20Edition%20Labs%20%C2%B7%20AI%20Products%20for%20Music%20Operations&descAlignY=60&animation=fadeIn" alt="header" />
+<div align="center">
 
-[![CEO](https://img.shields.io/badge/Role-CEO%20%40%20Marques%20Edition%20Labs-0A66C2?style=for-the-badge)](https://github.com/marqueseditionlabs)
-![macOS](https://img.shields.io/badge/Platform-macOS-1f6feb?style=for-the-badge)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-Product%20Engineering-F54A2A?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-AppleScript-8A8A8A?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-OpenAI%20Integrations-111111?style=for-the-badge)
+[![CEO](https://img.shields.io/badge/CEO-Marques%20Edition%20Labs-ff2f9f?style=for-the-badge)](https://github.com/marqueseditionlabs)
+![Focus](https://img.shields.io/badge/Focus-AI%20DJ%20Tools-4ce9ff?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-macOS-2f81f7?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-SwiftUI%20%7C%20AppleScript%20%7C%20OpenAI-7a5cff?style=for-the-badge)
 
 </div>
 
-## Executive Summary
+## Executive Profile
 
-I build and lead software products at the intersection of **AI**, **music operations**, and **macOS automation**.
-At **Marques Edition Labs**, I focus on turning real-world DJ workflows into robust, production-ready tools.
+I am **Alejandro Lopez Aragon**, CEO of **Marques Edition Labs**.
+I lead product strategy and technical execution for AI-powered software built for DJs and music operations.
 
-## What I Do
+## Visual Direction (Neon CSS System)
 
-- Define product strategy and execution frameworks
-- Drive architecture decisions for scalable macOS solutions
-- Integrate AI capabilities into operational workflows
-- Maintain release quality through CI/CD and delivery discipline
+```css
+:root {
+  --bg-deep: #030611;
+  --pink-neon: #ff2f9f;
+  --violet-neon: #b26dff;
+  --cyan-neon: #4ce9ff;
+  --blue-ice: #74b4ff;
+}
 
-## Tech I Control
+.neon-glow {
+  text-shadow: 0 0 8px var(--pink-neon), 0 0 16px var(--cyan-neon);
+}
+```
+
+<div align="center">
+  <img src="./assets/neon-diamond.svg" alt="marques edition diamond" width="70%" />
+</div>
+
+## What I Build
+
+- AI-assisted tools for DJ session planning
+- macOS workflow automation for Apple Music operations
+- production-ready apps with strong architecture and release discipline
+
+## Technologies I Control
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
 ### Languages
-
 - Swift
 - AppleScript
-- Shell (Bash/Zsh)
+- Shell
 
 </td>
 <td valign="top" width="33%">
 
-### Frameworks & Platforms
-
+### Frameworks
 - SwiftUI
-- Apple Music Automation
-- macOS Native Tooling
+- AppKit integration
+- OpenAI API
 
 </td>
 <td valign="top" width="33%">
 
-### Delivery & Ops
-
+### Delivery
 - GitHub Actions
-- Release Pipelines
-- Build/Test Hardening
+- CI/CD pipelines
+- QA hardening
 
 </td>
 </tr>
 </table>
 
-## Engineering Signature
-
-- Architecture ownership by domain
-- Strong reliability patterns (state, strategy, pipeline, resilience)
-- Production-first thinking over demo-only implementations
-- Clean interfaces between AI services and core business logic
-
 ## Flagship Product
 
 ### [MARQUESEDITION_TOOLS](https://github.com/marqueseditionlabs/MARQUESEDITION_TOOLS)
 
-**A macOS suite for professional music workflows.**
+- **FolderToTunes** (`Stable`): folder-to-Apple Music structure import
+- **AISessionGenerator** (`Beta`): AI-assisted playlist/session generation workflow
 
-- **FolderToTunes** (`Stable`): Converts folder hierarchies into Apple Music folders and playlists
-- **AISessionGenerator** (`Beta`): AI-assisted playlist/session workflow for advanced preparation
+## Engineering DNA
 
-## Professional Presence
+- domain-driven ownership (`Common`, `FolderToTunes`, `AISessionGenerator`)
+- predictable state transitions and resilient workflows
+- practical product decisions with direct business impact
+
+## Links
 
 - Personal GitHub: [@marquesedition](https://github.com/marquesedition)
 - Organization: [@marqueseditionlabs](https://github.com/marqueseditionlabs)
@@ -80,6 +94,6 @@ At **Marques Edition Labs**, I focus on turning real-world DJ workflows into rob
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=marquesedition&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=marquesedition&label=Profile%20Views&color=4ce9ff&style=flat)
 
 </div>

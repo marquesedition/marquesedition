@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="Marques Edition Neon Diamond">
+  <defs>
+    <linearGradient id="pinkCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2f9f"/>
+      <stop offset="45%" stop-color="#d16bff"/>
+      <stop offset="100%" stop-color="#4ce9ff"/>
+    </linearGradient>
+    <linearGradient id="pinkOnly" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2f9f"/>
+      <stop offset="100%" stop-color="#ff7dd3"/>
+    </linearGradient>
+    <linearGradient id="cyanOnly" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6db7ff"/>
+      <stop offset="100%" stop-color="#4ce9ff"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.8 0"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .titleA { font: 700 150px "Brush Script MT", "Segoe Script", cursive; fill: url(#pinkOnly); }
+      .titleB { font: 700 150px "Brush Script MT", "Segoe Script", cursive; fill: url(#cyanOnly); }
+      .spark { fill: #79e6ff; opacity: 0.85; }
+      .sparkPink { fill: #ff5ec2; opacity: 0.85; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1200" fill="#030611"/>
+
+  <g opacity="0.4">
+    <circle class="spark" cx="160" cy="220" r="3"/>
+    <circle class="sparkPink" cx="250" cy="160" r="2.5"/>
+    <circle class="spark" cx="360" cy="190" r="2"/>
+    <circle class="sparkPink" cx="920" cy="200" r="2.5"/>
+    <circle class="spark" cx="1020" cy="260" r="3"/>
+    <circle class="sparkPink" cx="930" cy="340" r="2"/>
+    <circle class="spark" cx="210" cy="780" r="2.5"/>
+    <circle class="sparkPink" cx="280" cy="870" r="2"/>
+    <circle class="spark" cx="980" cy="830" r="2.5"/>
+    <circle class="sparkPink" cx="890" cy="900" r="2"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <polygon points="600,1040 240,430 410,235 790,235 960,430" fill="none" stroke="url(#pinkCyan)" stroke-width="10"/>
+    <polyline points="240,430 480,430 600,235 720,430 960,430" fill="none" stroke="url(#pinkCyan)" stroke-width="8"/>
+    <line x1="480" y1="430" x2="360" y2="590" stroke="url(#pinkCyan)" stroke-width="6"/>
+    <line x1="720" y1="430" x2="840" y2="590" stroke="url(#pinkCyan)" stroke-width="6"/>
+    <line x1="600" y1="235" x2="600" y2="1040" stroke="url(#pinkCyan)" stroke-width="6" opacity="0.65"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="250" y="610" class="titleA">marques</text>
+    <text x="470" y="760" class="titleB">edition</text>
+  </g>
+</svg>
