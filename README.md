@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/neon-labs-wordmark.svg" alt="marquesedition labs" width="100%" />
+  <img src="https://raw.githubusercontent.com/marquesedition/marquesedition/main/assets/neon-labs-wordmark.svg" alt="marquesedition labs" width="100%" />
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ I lead product strategy and technical execution for AI-powered software built fo
 ```
 
 <div align="center">
-  <img src="./assets/neon-diamond.svg" alt="marques edition diamond" width="70%" />
+  <img src="https://raw.githubusercontent.com/marquesedition/marquesedition/main/assets/neon-diamond.svg" alt="marques edition diamond" width="70%" />
 </div>
 
 ## What I Build
