@@ -1,92 +1,59 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marquesedition/marquesedition/main/assets/neon-labs-wordmark.svg" alt="marquesedition labs" width="100%" />
-</div>
 
-<div align="center">
+# Alejandro Lopez Aragon
+
+### CEO at [Marques Edition Labs](https://github.com/marqueseditionlabs)
 
 [![CEO](https://img.shields.io/badge/CEO-Marques%20Edition%20Labs-ff2f9f?style=for-the-badge)](https://github.com/marqueseditionlabs)
 ![Focus](https://img.shields.io/badge/Focus-AI%20DJ%20Tools-4ce9ff?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-macOS-2f81f7?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-SwiftUI%20%7C%20AppleScript%20%7C%20OpenAI-7a5cff?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-macOS-74b4ff?style=for-the-badge)
+![Execution](https://img.shields.io/badge/Execution-Product%20%26%20Engineering-b26dff?style=for-the-badge)
 
 </div>
 
-## Executive Profile
+## Executive Summary
 
-I am **Alejandro Lopez Aragon**, CEO of **Marques Edition Labs**.
-I lead product strategy and technical execution for AI-powered software built for DJs and music operations.
+I lead strategy, product direction, and technical execution for AI-powered software focused on DJ and music-library operations.
+My work combines business ownership with hands-on software delivery, with a strong emphasis on reliability, architecture, and production quality.
 
-## Visual Direction (Neon CSS System)
+## Brand Palette
 
-```css
-:root {
-  --bg-deep: #030611;
-  --pink-neon: #ff2f9f;
-  --violet-neon: #b26dff;
-  --cyan-neon: #4ce9ff;
-  --blue-ice: #74b4ff;
-}
+![Pink](https://img.shields.io/badge/Neon%20Pink-%23ff2f9f-ff2f9f?style=flat-square)
+![Violet](https://img.shields.io/badge/Neon%20Violet-%23b26dff-b26dff?style=flat-square)
+![Cyan](https://img.shields.io/badge/Neon%20Cyan-%234ce9ff-4ce9ff?style=flat-square)
+![Blue](https://img.shields.io/badge/Ice%20Blue-%2374b4ff-74b4ff?style=flat-square)
 
-.neon-glow {
-  text-shadow: 0 0 8px var(--pink-neon), 0 0 16px var(--cyan-neon);
-}
-```
+## Leadership Scope
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marquesedition/marquesedition/main/assets/neon-diamond.svg" alt="marques edition diamond" width="70%" />
-</div>
-
-## What I Build
-
-- AI-assisted tools for DJ session planning
-- macOS workflow automation for Apple Music operations
-- production-ready apps with strong architecture and release discipline
+- Product strategy and roadmap prioritization
+- Technical architecture for macOS-native products
+- AI integration strategy for operational workflows
+- Delivery governance: CI/CD, release quality, and maintainability
 
 ## Technologies I Control
 
-<table>
-<tr>
-<td valign="top" width="33%">
+| Domain | Technologies |
+|---|---|
+| Languages | Swift, AppleScript, Shell |
+| Frameworks & APIs | SwiftUI, AppKit integration, OpenAI API |
+| Delivery | GitHub Actions, CI/CD pipelines, release workflows |
+| Product Ops | Quality gates, architecture ownership, technical standards |
 
-### Languages
-- Swift
-- AppleScript
-- Shell
-
-</td>
-<td valign="top" width="33%">
-
-### Frameworks
-- SwiftUI
-- AppKit integration
-- OpenAI API
-
-</td>
-<td valign="top" width="33%">
-
-### Delivery
-- GitHub Actions
-- CI/CD pipelines
-- QA hardening
-
-</td>
-</tr>
-</table>
-
-## Flagship Product
+## Flagship Platform
 
 ### [MARQUESEDITION_TOOLS](https://github.com/marqueseditionlabs/MARQUESEDITION_TOOLS)
 
-- **FolderToTunes** (`Stable`): folder-to-Apple Music structure import
-- **AISessionGenerator** (`Beta`): AI-assisted playlist/session generation workflow
+- **FolderToTunes** (`Stable`): Converts folder structures into Apple Music folders and playlists
+- **AISessionGenerator** (`Beta`): AI-assisted playlist/session generation for advanced preparation
 
-## Engineering DNA
+## Engineering Standards
 
-- domain-driven ownership (`Common`, `FolderToTunes`, `AISessionGenerator`)
-- predictable state transitions and resilient workflows
-- practical product decisions with direct business impact
+- Clear domain ownership and modular architecture
+- Predictable state-driven workflows
+- Resilience and recoverability in long-running processes
+- Business-oriented execution with technical rigor
 
-## Links
+## Professional Links
 
 - Personal GitHub: [@marquesedition](https://github.com/marquesedition)
 - Organization: [@marqueseditionlabs](https://github.com/marqueseditionlabs)
