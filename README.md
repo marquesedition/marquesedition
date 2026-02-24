@@ -1,57 +1,71 @@
 <div align="center">
 
-# Alejandro Lopez Aragon
-
-### CEO at [Marques Edition Labs](https://github.com/marqueseditionlabs)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:ff2f9f,45:b26dff,100:4ce9ff&text=Alejandro%20Lopez%20Aragon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CEO%20at%20Marques%20Edition%20Labs%20%C2%B7%20AI%20DJ%20Tools&descAlignY=63" alt="header" />
 
 [![CEO](https://img.shields.io/badge/CEO-Marques%20Edition%20Labs-ff2f9f?style=for-the-badge)](https://github.com/marqueseditionlabs)
-![Focus](https://img.shields.io/badge/Focus-AI%20DJ%20Tools-4ce9ff?style=for-the-badge)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-Executive%20Ownership-b26dff?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-macOS-74b4ff?style=for-the-badge)
-![Execution](https://img.shields.io/badge/Execution-Product%20%26%20Engineering-b26dff?style=for-the-badge)
+![AI Focus](https://img.shields.io/badge/AI%20Focus-OpenAI%20Workflows-4ce9ff?style=for-the-badge)
 
 </div>
 
-## Executive Summary
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I lead strategy, product direction, and technical execution for AI-powered software focused on DJ and music-library operations.
-My work combines business ownership with hands-on software delivery, with a strong emphasis on reliability, architecture, and production quality.
+## Executive Role
 
-## Brand Palette
+I lead **strategy, product direction, and execution** at Marques Edition Labs.
+My work combines business leadership with hands-on technical oversight to deliver practical AI software for music operations.
 
-![Pink](https://img.shields.io/badge/Neon%20Pink-%23ff2f9f-ff2f9f?style=flat-square)
-![Violet](https://img.shields.io/badge/Neon%20Violet-%23b26dff-b26dff?style=flat-square)
-![Cyan](https://img.shields.io/badge/Neon%20Cyan-%234ce9ff-4ce9ff?style=flat-square)
-![Blue](https://img.shields.io/badge/Ice%20Blue-%2374b4ff-74b4ff?style=flat-square)
+</td>
+<td valign="top" width="50%">
 
-## Leadership Scope
+## Current Mission
 
-- Product strategy and roadmap prioritization
-- Technical architecture for macOS-native products
-- AI integration strategy for operational workflows
-- Delivery governance: CI/CD, release quality, and maintainability
+Build production-ready tools that improve DJ workflows through:
+- AI-assisted decision support
+- macOS-native automation
+- reliable release and delivery systems
 
-## Technologies I Control
+</td>
+</tr>
+</table>
 
-| Domain | Technologies |
+## Technology Leadership
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![AppleScript](https://img.shields.io/badge/AppleScript-8A8A8A?style=flat-square&logo=apple&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+## Strategic Scope
+
+| Area | Ownership |
 |---|---|
-| Languages | Swift, AppleScript, Shell |
-| Frameworks & APIs | SwiftUI, AppKit integration, OpenAI API |
-| Delivery | GitHub Actions, CI/CD pipelines, release workflows |
-| Product Ops | Quality gates, architecture ownership, technical standards |
+| Product | Vision, roadmap, prioritization, delivery alignment |
+| Architecture | Domain boundaries, resilience patterns, maintainability |
+| AI Integration | Prompt workflow design, API integration strategy, quality controls |
+| Operations | CI/CD governance, release discipline, production readiness |
 
 ## Flagship Platform
 
 ### [MARQUESEDITION_TOOLS](https://github.com/marqueseditionlabs/MARQUESEDITION_TOOLS)
 
-- **FolderToTunes** (`Stable`): Converts folder structures into Apple Music folders and playlists
-- **AISessionGenerator** (`Beta`): AI-assisted playlist/session generation for advanced preparation
+![FolderToTunes](https://img.shields.io/badge/FolderToTunes-Stable-00c853?style=flat-square)
+![AISessionGenerator](https://img.shields.io/badge/AISessionGenerator-Beta-ffab00?style=flat-square)
 
-## Engineering Standards
+- **FolderToTunes**: converts folder hierarchies into Apple Music folders and playlists
+- **AISessionGenerator**: AI-assisted playlist/session generation for advanced prep workflows
+
+## Execution Standards
 
 - Clear domain ownership and modular architecture
-- Predictable state-driven workflows
-- Resilience and recoverability in long-running processes
-- Business-oriented execution with technical rigor
+- Predictable state-driven behavior
+- Resilient workflows for long-running tasks
+- Product decisions tied to measurable operational value
 
 ## Professional Links
 
