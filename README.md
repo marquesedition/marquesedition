@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0b1220,40:1a1f3a,70:b26dff,100:4ce9ff&text=ALEJANDRO%20LOPEZ%20ARAGON&fontColor=ffffff&fontSize=34&animation=fadeIn&desc=CEO%20%C2%B7%20MARQUES%20EDITION%20LABS&descAlignY=70" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0b1220,40:1a1f3a,70:b26dff,100:4ce9ff&text=ALEJANDRO%20LOPEZ%20ARAGON&fontColor=ffffff&fontSize=34&animation=fadeIn&desc=CEO%20%C2%B7%20%MLABS%20%MUSIC&descAlignY=70" alt="header" />
 
 [![Office](https://img.shields.io/badge/Office-Chief%20Executive%20Officer-ff2f9f?style=for-the-badge)](https://github.com/marqueseditionlabs)
 ![Company](https://img.shields.io/badge/Company-Marques%20Edition%20Labs-4ce9ff?style=for-the-badge)
